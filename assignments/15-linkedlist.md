@@ -14,7 +14,7 @@
 - [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) `leetcode`
 
 ## Medium
-- [Design Twitter](https://leetcode.com/problems/design-twitter/) `leetcode`
+- [Design Twitter](https://leetcode.com/problems/design-twitter/) `leetcode` done
 - [ Design Linked List](https://leetcode.com/problems/design-linked-list/) `leetcode`
 - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) `leetcode`done
 - [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`done

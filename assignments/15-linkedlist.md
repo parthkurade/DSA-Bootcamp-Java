@@ -20,8 +20,8 @@
 - [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`done
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) `leetcode` `HSBC`done
 - [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) `leetcode`
-- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) `leetcode` `TCS` `Amazon` `Microsoft` `Facebook` `Qualcomm`
-- [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) `leetcode`
+- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) `leetcode` `TCS` `Amazon` `Microsoft` `Facebook` `Qualcomm`done
+- [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) `leetcode`done
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) `leetcode`done
 - [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) `leetcode` `Amazon`
 - [Rotate List](https://leetcode.com/problems/rotate-list/) `leetcode` `Microsoft`

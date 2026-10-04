@@ -50,6 +50,6 @@
 - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) `leetcode`done
 - [LFU Cache](https://leetcode.com/problems/lfu-cache/) `leetcode` `Google`
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) `leetcode`
-- [Clone a linked list with next and random pointer](https://www.geeksforgeeks.org/clone-linked-list-next-random-pointer-o1-space/) `GFG` `Google` `Flipkart`
+- [Clone a linked list with next and random pointer](https://www.geeksforgeeks.org/clone-linked-list-next-random-pointer-o1-space/) `GFG` `Google` `Flipkart` done
 - [All O'one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) `leetcode`
 - [Design Skiplist](https://leetcode.com/problems/design-skiplist/) `leetcode`
